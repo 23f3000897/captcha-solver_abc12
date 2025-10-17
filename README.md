@@ -1,1 +1,10 @@
-# captcha-solver_abc12
+# my_task
+
+## Brief
+Minimal app
+
+## Usage
+Open index.html
+
+## License
+MIT
